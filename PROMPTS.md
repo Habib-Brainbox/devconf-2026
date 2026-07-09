@@ -1,0 +1,2 @@
+## AI Prompt That I Used
+"I am creating a technology conference landing page called DEVCONF 2026 using only HTML5 and CSS3. I need a responsive FAQ section to place below the pricing table. Please generate exactly 6 relevant questions and answers about session recordings, student discounts, certificates, refunds, live Q&As, and event dates. Structure it using clean white background cards with subtle box-shadows, and align all text to the left to match the rest of the site layout. Do not use any JavaScript or external frameworks."
